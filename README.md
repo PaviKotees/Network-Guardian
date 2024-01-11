@@ -6,7 +6,7 @@
 1. [Introduction](#introduction)
 
 
-#Introduction
+# Introduction
 
 Platforms used for this project:
 

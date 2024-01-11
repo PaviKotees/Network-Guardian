@@ -16,4 +16,4 @@
 
 **Windows Server 2019** - This will be the machine where Splunk Enterprise will be installed and all logs from the *target machine* will be forwarded to this machine.
 
-**Kali Linux** - Kali Linux is platform that is made for attacking. 
+**Kali Linux** - Kali Linux is platform that is made for penetration trsting which I will be using to attack.

@@ -8,7 +8,7 @@
 
 # Introduction
 
-Platforms used for this project:
+## Platforms used for this project:
 
 **Splunk** - Splunk is a **Security Information and Event Management**(SIEM) tool that simplifies the task of collecting and managing massive volumes of machine-generated data and searching for information within it. Using Splunk we can detect an attack and create an alert to prevent future attacks.
 

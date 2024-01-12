@@ -24,3 +24,4 @@
 
 ## Intro To Splunk
 
+Splunk can be used to monitor all sorts of activity on the host machines as well as remote machines. Here's an example:

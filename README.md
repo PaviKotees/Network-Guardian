@@ -26,4 +26,4 @@
 
 Splunk can be used to monitor all types of activity on the host machines as well as remote machines. Here's an example of adding the logs we want to be analyzed by Splunk and viewing the system's logs on Splunk:
 
-<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/144d0ed5-acbc-43e5-a07b-b78cb6dbcfe7" height="50%" width="50%"/> <img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/09ef100a-9657-4c91-aef0-5d3999b22bc1" height="50%" width="50%"/>
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/144d0ed5-acbc-43e5-a07b-b78cb6dbcfe7" height="45%" width="45%"/> <img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/09ef100a-9657-4c91-aef0-5d3999b22bc1" height="45%" width="45%"/>

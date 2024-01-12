@@ -5,10 +5,12 @@
 
 1. [Introduction](#introduction)
 
+   - [Intro To Splunk](#intro-to-splunk)
+
 
 # Introduction
 
-## Platforms used for this project:
+## Platforms and tools used for this project:
 
 **Splunk** - Splunk is a **Security Information and Event Management**(SIEM) tool that simplifies the task of collecting and managing massive volumes of machine-generated data and searching for information within it. Using Splunk we can detect an attack and create an alert to prevent future attacks.
 
@@ -17,3 +19,8 @@
 **Windows Server 2019** - This will be the machine where Splunk Enterprise will be installed and all logs from the *target machine* will be forwarded to this machine.
 
 **Kali Linux** - Kali Linux is platform that is made for penetration trsting which I will be using to attack.
+
+**Hydra** - Hydra on Kali Linux will be used to perform a simple brute force attack to identify the target machine's username and password. 
+
+## Intro To Splunk
+

@@ -39,3 +39,6 @@ Splunk shows detailed description of every log. On the screenshot above,
 **EventType** - 
 
 **ComputerName** - From which machine the logs came from and the domain the machine belongs to.
+
+
+**I will be adding to this lab from time to time. This is a extensive project and I keep running into issues.**

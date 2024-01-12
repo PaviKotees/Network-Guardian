@@ -26,4 +26,10 @@
 
 Splunk can be used to monitor all types of activity on the host machines as well as remote machines. Here's an example of adding the logs we want to be analyzed by Splunk and viewing the system's logs on Splunk:
 
-<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/144d0ed5-acbc-43e5-a07b-b78cb6dbcfe7" height="45%" width="45%"/> <img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/09ef100a-9657-4c91-aef0-5d3999b22bc1" height="45%" width="45%"/>
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/144d0ed5-acbc-43e5-a07b-b78cb6dbcfe7" height="45%" width="45%"/> <img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/3a47fa18-a756-48a2-9408-b5de73a0422d" height="45%" width="45%"/>
+
+Splunk shows detailed description of every log. On the screenshot above,
+
+**LogName=Security** - Security logs show Login attempts, object access, and file deletion. 
+
+**EventCode=4634** - This event code is generated when a user is logged off. In this case I let the machine running and it went on sleep mode hence logging out the user(me) therefore generating an **event code 4636.**

@@ -24,4 +24,6 @@
 
 ## Intro To Splunk
 
-Splunk can be used to monitor all sorts of activity on the host machines as well as remote machines. Here's an example:
+Splunk can be used to monitor all types of activity on the host machines as well as remote machines. Here's an example:
+
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/144d0ed5-acbc-43e5-a07b-b78cb6dbcfe7" height="50%" width="50%"/>

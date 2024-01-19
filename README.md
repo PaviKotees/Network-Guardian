@@ -6,6 +6,7 @@
 1. [Introduction](#introduction)
 
    - [Intro To Splunk](#intro-to-splunk)
+   - [Setting Up pfsense firewall](#setting-up-pfsense-firewall)
 
 
 # Introduction
@@ -40,5 +41,20 @@ Splunk shows detailed description of every log. On the screenshot above,
 
 **ComputerName** - From which machine the logs came from and the domain the machine belongs to.
 
+### **Configuring Splunk Forwarder**
 
-**I will be adding to this lab from time to time. This is a extensive project and I keep running into issues.**
+Splunk Forwarder will be the tool that will forward the logs from a machine to a central log aggregating machine, usually a server. 
+
+The Splunk Forwarder setup will require us to indicate the source(logs) which it should be forwarding and enter the receiver's IP, port at which it will be accepting the logs. 
+
+<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/37e2c183-b1ca-4409-8471-a5516061947a" height="30%" width="30%"/> <img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/7e014f31-9ddc-43fd-a18d-9d189885f27e" height="30%" width="30%"/> <img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/755585cc-8bb4-46a0-88a2-d4c5cb0e9380" height="29%" width="29%"/>
+
+Very important to configure the receiving port on the server's Splunk which will our central repository.
+
+<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/f716256b-3f37-4323-9dc6-8fba8d0bc4b4" height="30%" width="30%"/>
+
+## Setting Up pfsense Firewall
+
+
+
+**I will be adding to this lab from time to time.**

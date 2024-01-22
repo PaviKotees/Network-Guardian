@@ -51,7 +51,7 @@ The Splunk Forwarder setup will require us to indicate the source (logs) which i
 
 Very important to configure the receiving port on the server's Splunk which will be our central repository.
 
-<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/f716256b-3f37-4323-9dc6-8fba8d0bc4b4" height="30%" width="30%"/>
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/01c0d6f7-4206-45b3-85a2-eec7c6d100be" height="30%" width="30%"/>
 
 ## Setting Up pfsense Firewall
 

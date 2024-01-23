@@ -67,6 +67,6 @@ Installed Kali Linux on another machine which will be the attack machine and can
 
 Enter the firewall's IP in the browser and we will directed to the firewall's login page.
 
-<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/a0a58fba-ddbc-4803-b3d1-bb0f44419055" height="30%" width="30%"/> 
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/a0a58fba-ddbc-4803-b3d1-bb0f44419055" height="30%" width="30%"/> <img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/ba8f4d11-fc84-4cc7-9aa2-b02e3cc6dc61" height="30%" width="30%"/>
 
 **I will be adding to this lab from time to time.**

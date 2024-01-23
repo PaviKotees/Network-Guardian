@@ -55,6 +55,18 @@ Very important to configure the receiving port on the server's Splunk which will
 
 ## Setting Up pfsense Firewall
 
+After downloading [pfsense firewall](https://www.pfsense.org/download/). Set up the firewall with the number of interfaces required depending on the number of systems it will be connected to. 
 
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/11ca0a99-d575-410c-9127-1a121e479e95" height="30%" width="30%"/> 
+
+Configure adapter em1 with an IP and set it up for DHCP leasing. Confiure rest of the adapters with an IP except one adapter which will act as a span port.
+
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/00bce584-dca6-43eb-a301-9f1c8c62e0e9" height="30%" width="30%"/> 
+
+Installed Kali Linux on another machine which will be the attack machine and can be used to finish setting up the pfsense firewall.
+
+Enter the firewall's IP in the browser and we will directed to the firewall's login page.
+
+<img src="https://github.com/PaviKotees/Network-Guardian/assets/154454339/a0a58fba-ddbc-4803-b3d1-bb0f44419055" height="30%" width="30%"/> 
 
 **I will be adding to this lab from time to time.**

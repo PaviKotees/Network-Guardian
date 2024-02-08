@@ -6,7 +6,7 @@
 1. [Introduction](#introduction)
 
    - [Intro To Splunk](#intro-to-splunk)
-   - - Monitoring and creating alerts
+    - Monitoring and creating alerts
    - [Setting Up pfsense firewall](#setting-up-pfsense-firewall)
 
 

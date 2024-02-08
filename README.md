@@ -38,13 +38,11 @@ Splunk shows detailed description of every log. On the screenshot above,
 
 **EventCode=4634** - This event code is generated when a user is logged off. In this case I let the machine running and it went on sleep mode hence logging out the user(me) therefore generating an **event code 4636.**
 
-**EventType** - 
-
 **ComputerName** - From which machine the logs came from and the domain the machine belongs to.
 
 ## Creating alerts
 
-Splunk has feature where we can create alerts for specific attacks.
+Splunk has feature where it will monitor for specific situation and generate alerts.
 
 For example,let's do a port scan against my Windows 10 **(10.0.0.230)** machine from my Kali Linux **(10.0.0.61)** machine
 <img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/092ed852-aed8-434f-82e4-f8bd7c5a17a8" height="30%" width="30%"/>

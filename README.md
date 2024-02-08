@@ -6,7 +6,7 @@
 1. [Introduction](#introduction)
 
    - [Intro To Splunk](#intro-to-splunk)
-      - Monitoring and creating alerts
+      - [Monitoring and creating alerts](#creating-alerts) 
    - [Setting Up pfsense firewall](#setting-up-pfsense-firewall)
 
 
@@ -42,6 +42,15 @@ Splunk shows detailed description of every log. On the screenshot above,
 
 **ComputerName** - From which machine the logs came from and the domain the machine belongs to.
 
+## Creating alerts
+
+Splunk has feature where we can create alerts for specific attacks.
+
+For example,let's do a port scan against my Windows 10 **(10.0.0.230)** machine from my Kali Linux **(10.0.0.61)** machine
+<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/092ed852-aed8-434f-82e4-f8bd7c5a17a8" height="30%" width="30%"/>
+
+The logs for the port scan can be see on Splunk on the host machine, Windows 10 **(10.0.0.230)**
+<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/c5520137-264a-4a51-a4b3-ecad2c811682" height="30%" width="30%"/>
 ### **Configuring Splunk Forwarder**
 
 Splunk Forwarder will be the tool that will forward the logs from a machine to a central log aggregating machine, usually a server. 

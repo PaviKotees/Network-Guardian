@@ -50,7 +50,19 @@ For example,let's do a port scan against my Windows 10 **(10.0.0.230)** machine 
 <img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/092ed852-aed8-434f-82e4-f8bd7c5a17a8" height="30%" width="30%"/>
 
 The logs for the port scan can be see on Splunk on the host machine, Windows 10 **(10.0.0.230)**
+
 <img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/c5520137-264a-4a51-a4b3-ecad2c811682" height="30%" width="30%"/>
+
+Creating an alert for the port scan done by Linux machine:
+
+<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/a2b8525d-975a-400b-b140-887d2623ce61" height="30%" width="30%"/>
+
+Conducting the port scan once again and alert is triggered:
+
+<img src="https://github.com/PaviKotees/Malware-Analysis/assets/154454339/7f529e98-a8f4-431a-aebe-d0230a7f6c0c" height="30%" width="30%"/>
+
+
+
 ### **Configuring Splunk Forwarder**
 
 Splunk Forwarder will be the tool that will forward the logs from a machine to a central log aggregating machine, usually a server. 
